@@ -12,11 +12,5 @@ This project builds a content-based song recommendation system. Given a song tit
 ## Result
 The recommender gives relevant results across different genres. For example, searching for a Pitbull song returns other Pitbull tracks with similar genres, and searching for a classic rock song returns other classic rock tracks.
 
-## Files
-```
-No_3.ipynb                      # Main notebook
-song_recomendation_B.csv        # Dataset
-```
-
 ## Tech Stack
 Python, pandas, numpy, scikit-learn, seaborn, matplotlib
